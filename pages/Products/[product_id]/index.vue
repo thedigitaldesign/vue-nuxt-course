@@ -1,5 +1,5 @@
 <template>
   <div>
-    HERE!
+    Product Page: {{ $route.params.product_id }}
   </div>
 </template>

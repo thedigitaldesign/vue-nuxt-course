@@ -28,7 +28,7 @@
     {
       id: 2,
       name: 'Basic Aspen White Tee',
-      href: '#',
+      href: `/products/2`,
       imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg',
       imageAlt: "Front of women's Basic Tee in Aspen White.",
       price: 35,
@@ -37,7 +37,7 @@
     {
       id: 3,
       name: 'Basic Charcoal Tee',
-      href: '#',
+      href: `/products/3`,
       imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg',
       imageAlt: "Front of women's Basic Tee in Charcoal.",
       price: 35,
@@ -46,7 +46,7 @@
     {
       id: 4,
       name: 'Artwork Tee',
-      href: '#',
+      href: `/products/4`,
       imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg',
       imageAlt: "Front of women's Artwork Tee.",
       price: 35,
