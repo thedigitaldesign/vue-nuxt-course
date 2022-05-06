@@ -1,3 +1,5 @@
 <template>
-  <NuxtWelcome />
+  baaarrrr
+  <NuxtLayout name="custom">foooo</NuxtLayout> 
+  wuuuut
 </template>
